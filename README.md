@@ -1,4 +1,4 @@
-## AAAI 2021 - On the Softmax Bottleneck of Recurrent Language Models
+## On the Softmax Bottleneck of Recurrent Language Models (AAAI 2021 Main Track)
 
 This repository contains the code, data, and supplementary material for our paper. 
 
