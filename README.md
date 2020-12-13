@@ -1,3 +1,7 @@
+## AAAI 2021 - On the Softmax Bottleneck of Recurrent Language Models
+
+
+## Some pointers
 -  Most of the code is from the open sourced implementation of AWD-LSTM and MoS. 
 - base_models contain the bottom layers of the AWD-LSTM network that are common 
 to all models under comparison.
