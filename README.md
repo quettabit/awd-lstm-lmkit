@@ -1,6 +1,6 @@
-## On the Softmax Bottleneck of Recurrent Language Models (AAAI 2021 Main Track)
+## On the Softmax Bottleneck of Recurrent Language Models
 
-This repository contains the code, data, and supplementary material for our paper. 
+This repository contains the code, data, and supplementary material for our paper which got accepted at the main track of AAAI 2021. 
 
 ## Some pointers
 -  Most of the code is from the open sourced implementation of AWD-LSTM and MoS. 
