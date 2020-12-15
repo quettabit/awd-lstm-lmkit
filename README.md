@@ -1,7 +1,3 @@
-## About
-
-This repository contains the code, data, and supplementary material for our paper "On the Softmax Bottleneck of Recurrent Language Models", which got accepted at the main track of AAAI 2021. 
-
 ## Note
 -  Most of the code is from the open sourced implementation of AWD-LSTM and MoS.
 - base_models contain the bottom layers of the AWD-LSTM network that are common 
