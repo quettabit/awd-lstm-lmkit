@@ -17,7 +17,7 @@ with such values to preserve anonymity.
 
 ## More information
 
-If you are curious or still looking for more information, please look at my [master's thesis](https://ruor.uottawa.ca/handle/10393/41412)
+If you are curious or still looking for more information, please look at my [master's thesis](https://ruor.uottawa.ca/handle/10393/41412).
 
 ## TODO
 
