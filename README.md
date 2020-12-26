@@ -1,3 +1,7 @@
+## PDFs
+
+This repo contains pdfs of the paper, supplementary material, reviews, author response, and meta review. 
+
 ## Note
 -  Most of the code is from the open sourced implementation of AWD-LSTM and MoS.
 - base_models contain the bottom layers of the AWD-LSTM network that are common 
