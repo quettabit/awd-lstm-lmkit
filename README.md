@@ -1,6 +1,6 @@
-## PDFs
+## pdfs directory
 
-This repo contains pdfs of the paper, supplementary material, reviews, author response, and meta review. 
+It contains the pdfs of the paper, supplementary material, reviews, author response, and meta review. 
 
 ## Note
 -  Most of the code is from the open sourced implementation of AWD-LSTM and MoS.
